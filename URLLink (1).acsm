@@ -1,0 +1,26 @@
+<fulfillmentToken fulfillmentType="buy" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:b87b96b5-ffd8-45fa-897f-2594a4d15b16</distributor>
+  <operatorURL>http://digital.pearson.com/fulfillment</operatorURL>
+  <transaction>83bf948b-4363-66b1-aea8-ff00004a2a88</transaction>
+  <expiration>2018-08-09T16:34:33-05:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:82b5c50d-f9c3-45d0-85df-bf24a7f2ec2d</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Administración de proyectos, la clave para la coordinación efectiva de actividades y recursos.</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adán López Miranda, Dolores Lankenau Caballero</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Pearson</dc:publisher>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:82b5c50d-f9c3-45d0-85df-bf24a7f2ec2d</resource>
+      <permissions>
+        <display/>
+        <excerpt/>
+        <print/>
+        <play/>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>58QH9Rd745/YUz5zJvzl+WBDOvE=</hmac>
+</fulfillmentToken>
